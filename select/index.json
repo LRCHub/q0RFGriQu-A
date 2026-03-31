@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "妄想感傷代償連盟 -ムウ Cover-",
+  "base_artist": "MILGRAM ムウ (CV: 香里有佐)",
+  "createdAt": "2026-03-31T13:09:47.769102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "妄想感傷代償連盟 - ムウ Cover",
+      "artist": "MILGRAM ムウ (CV: 香里有佐)",
+      "has_synced": false,
+      "path": "select/pl_01_妄想感傷代償連盟_-_ムウ_Cover_MILGRAM_ムウ_(CV__香里有佐).txt"
+    }
+  ]
+}
